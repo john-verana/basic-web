@@ -1,0 +1,6 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; display: grid; place-items: center; min-height: 100dvh; background:#fafafa; }
+.card { width:100%; max-width:420px; padding:1.25rem; border:1px solid #e5e5e5; border-radius:12px; background:#fff; }
+#hello-form { display:flex; gap:.5rem; margin-top:.5rem; }
+input { flex:1; padding:.6rem .8rem; border:1px solid #ddd; border-radius:8px; }
+button { padding:.6rem .9rem; border:1px solid #222; border-radius:8px; background:#222; color:#fff; cursor:pointer; }
+#output { margin-top:1rem; font-weight:600; }
